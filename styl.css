@@ -1,0 +1,47 @@
+a {
+color: brown;
+}
+.baner {
+background-color: #ffb31c;
+text-align: center;
+height: 60px;
+}
+.prawy {
+background-color: #ffb31c;
+text-align: right;
+width: 20%;
+height: 480px;
+float: right;
+}
+.lewy {
+background-color: #ffb31c;
+width: 20%;
+height: 480px;
+float: left;
+}
+.srodkowy {
+background-color: #ffcb71;
+width: 60%;
+height: 480px;
+overflow: scroll;
+}
+.stopka {
+background-color: #ffb31c;
+text-align: center;
+height: 30px;
+float: none;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 0ch;
+}
+ul {
+list-style: square;
+list-style-position: inside;
+}
+table {
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+}
